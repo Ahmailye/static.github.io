@@ -1,3 +1,28 @@
-h1 {
-  color: red;
+h1 {color: #632770;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Satisfy', cursive;
+
+
 }
+h2 {color: white;
+font-size: 30px;
+text-align: center;
+font-family: 'Poiret One', cursive}
+
+body {text-align: center;
+background: grey;
+font-family: arial;}
+
+img {width: 250px; }
+
+ul {text-align: left;
+font-family: 'Poiret One', cursive}
+
+.box-black{
+	background: black;
+	margin: 100px
+<div class="card-category" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/breakfast.jpg)">
+  Breakfast
+</div>
+
